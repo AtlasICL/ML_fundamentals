@@ -2,7 +2,7 @@
 Some exercises on the fundamentals of Machine Learning, as taught by Dr Chico Camargo at the University of Exeter.  
 
 ## Requirements  
-The csv files necessary for the code are in the releases section of this repo.  
+The **csv files** necessary for the code are in the **releases section** of this repo.  
 Additionally, the following libraries are necessary:
 ```
 pip install numpy pandas scikit-learn matplotlib seaborn notebook
