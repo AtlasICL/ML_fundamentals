@@ -1,6 +1,5 @@
 # ML_fundamentals_1  
-Some exercises on the fundamentals of Machine Learning, as taught by Dr Chico Camargo at the University of Exeter, 2024-2025 academic year.  
-Author: Emre Acarsoy
+Some exercises on the fundamentals of Machine Learning, as taught by Dr Chico Camargo at the University of Exeter.  
 
 ## Structure
 - **Part A - linear/polynomial regression model**
