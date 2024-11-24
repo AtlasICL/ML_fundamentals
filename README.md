@@ -1,6 +1,13 @@
 # ML Fundamentals 1  
 Some exercises on the fundamentals of Machine Learning, as taught by Dr Chico Camargo at the University of Exeter.  
 
+**Requirements**  
+The csv files required to run the code are in the releases section of this repo.  
+The following installations are necessary:
+```
+pip install numpy pandas scikit-learn matplotlib seaborn notebook
+```
+
 ## Structure
 - **Part A - linear/polynomial regression model**
   - A.1 - data preparation and visualisation
