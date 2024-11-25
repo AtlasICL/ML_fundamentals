@@ -1,4 +1,4 @@
-# ML Fundamentals 1  
+# ML Fundamentals  
 Some exercises on the fundamentals of Machine Learning, as taught by Dr Chico Camargo at the University of Exeter.  
 
 ## Requirements  
