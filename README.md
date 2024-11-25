@@ -21,5 +21,6 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
   - B.7 - logistic regression classifier
   - B.8 - comparison and analysis
   - B.9 - analysis
-- **File 2**
+### File 2
+
   
