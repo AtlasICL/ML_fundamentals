@@ -22,5 +22,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
   - B.8 - comparison and analysis
   - B.9 - analysis
 ## File 2
-
+- **Part A - Probability and Bayesian Inference**
+- **Part B - Clustering and dimensionality reduction**
+- **Part C - Classification and regression**
   
