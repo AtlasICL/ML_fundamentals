@@ -21,7 +21,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
   - B.7 - logistic regression classifier
   - B.8 - comparison and analysis
   - B.9 - analysis
-## File 2
+## File 2 (not yet uploaded)
 - **Part A - Probability and Bayesian Inference**
 - **Part B - Clustering and dimensionality reduction**
 - **Part C - Classification and regression**
