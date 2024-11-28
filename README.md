@@ -15,14 +15,15 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
   - A.2 - linear regression, modelling and testing
   - A.3 - linear vs polynomial regression
   - A.4 - feature selection
-- **Part B - Classification**
+- **Part B - Classification (MNIST dataset)**
   - B.5 - data preparation
   - B.6 - perceptron classifier
   - B.7 - logistic regression classifier
   - B.8 - comparison and analysis
   - B.9 - analysis
 ## File 2 (not yet uploaded)
-- **Part A - Probability and Bayesian Inference**
-- **Part B - Clustering and dimensionality reduction**
-- **Part C - Classification and regression**
+- **Part A - Clustering and dimensionality reduction**
+- **Part B - Classification and regression (CIFAR10 dataset)**
+- **Part C - Dimensionality reduction**
+- **Part D - Discussion**
   
