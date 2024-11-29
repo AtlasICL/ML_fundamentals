@@ -23,11 +23,11 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
   - B.9 - analysis
 ## File 2 (not yet uploaded)
 - **Part A - Clustering and dimensionality reduction**
-  - A.1 - k-means clustering for MNIST
-    - A.1 - principal component analysis (PCA)
-    - A.2 - k-means clustering
-    - A.3 - Silhouette score / Davies-Bouldin score
-    - A.4 - tSNE (t-distributed stochastic neighbor emdedding)
+A.1 - k-means clustering for MNIST
+  - A.1 - principal component analysis (PCA)
+  - A.2 - k-means clustering
+  - A.3 - Silhouette score / Davies-Bouldin score
+  - A.4 - tSNE (t-distributed stochastic neighbor emdedding)
 - **Part B - Classification and regression (CIFAR10 dataset)**
 - **Part C - Dimensionality reduction**
 - **Part D - Discussion**
