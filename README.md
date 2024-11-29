@@ -11,10 +11,10 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
 # Structure
 ## File 1
 ### Part A - linear/polynomial regression model
-  - A.1 - data preparation and visualisation
-  - A.2 - linear regression, modelling and testing
-  - A.3 - linear vs polynomial regression
-  - A.4 - feature selection
+    - A.1 - data preparation and visualisation
+    - A.2 - linear regression, modelling and testing
+    - A.3 - linear vs polynomial regression
+    - A.4 - feature selection
 ### Part B - Classification (MNIST dataset)
   - B.5 - data preparation
   - B.6 - perceptron classifier
