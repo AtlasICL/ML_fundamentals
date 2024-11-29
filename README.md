@@ -23,7 +23,6 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
   - B.9 - analysis
 ## File 2 (not yet uploaded)
 - **Part A - Clustering and dimensionality reduction**
-
     
 A.1 - k-means clustering for MNIST
   - A.1 - principal component analysis (PCA)
