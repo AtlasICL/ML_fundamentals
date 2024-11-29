@@ -44,8 +44,9 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
   - A.2.4 - tSNE (t-distributed stochastic neighbor emdedding)
   - A.2.5 - discussion
     
-### Part B - Classification and regression (CIFAR10 dataset)
+### Part B - Multi-class logistic regression for CIFAR10 dataset
 
 ### Part C - Dimensionality reduction
+
 ### Part D - Discussion
   
