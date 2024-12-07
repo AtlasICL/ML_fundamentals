@@ -29,20 +29,6 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
 ## File 2 (not yet uploaded)
 
 ### Part A - Clustering and dimensionality reduction
-- A.1 - k-means clustering for MNIST
-
-  - A.1.1 - principal component analysis (PCA)
-  - A.1.2 - implementation
-  - A.1.3 - Silhouette score / Davies-Bouldin score
-  - A.1.4 - tSNE (t-distributed stochastic neighbor emdedding)
-    
-- A.2 - DBSCAN clustering for MNIST
-
-  - A.2.1 - implementation
-  - A.2.2 - comparison to k-means using tSNE
-  - A.2.3 - spectral clustering and Guassian mixture model (GMM)
-  - A.2.4 - tSNE (t-distributed stochastic neighbor emdedding)
-  - A.2.5 - discussion
     
 ### Part B - Multi-class logistic regression for CIFAR10 dataset
 
