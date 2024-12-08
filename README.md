@@ -28,7 +28,11 @@ pip install numpy pandas scikit-learn matplotlib seaborn notebook
 
 ## File 2 (not yet uploaded)
 
-### Part A - Clustering and dimensionality reduction
+### Part A - Clustering
+- A.1 - k-means clustering
+- A.2 - Silhouette score and DB score
+- A.3 - PCA and tSNE for clustering
+- A.4 - DBSCAN clustering
     
 ### Part B - Multi-class logistic regression for CIFAR10 dataset
 
