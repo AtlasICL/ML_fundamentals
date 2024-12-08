@@ -1,5 +1,5 @@
 # ML Fundamentals  
-Some exercises on the fundamentals of Machine Learning, as taught by Dr Chico Camargo at the University of Exeter.  
+Some implementations and discussions on the fundamentals of Machine Learning, as taught by Dr Chico Camargo at the University of Exeter.  
 
 # Requirements  
 The csv files necessary for the code are in the releases section of this repo.  
