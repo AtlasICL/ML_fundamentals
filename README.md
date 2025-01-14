@@ -20,7 +20,7 @@ Some implementations and discussions on the fundamentals of Machine Learning, as
 - B.9 - analysis
 
 
-## File 2 (not yet uploaded)
+## File 2
 
 ### Part A - Clustering
 - A.1 - k-means clustering
@@ -39,6 +39,9 @@ Comparison of PCA, t-SNE, UMAP techniques.
 - C.3 - interpretability and stability
 
 ### Part D - Discussion
+- D.1 - misleading accuracy
+- D.2 - precision/recall tradeoff
+- D.3 - misc examples
 
 ---
 
