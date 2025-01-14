@@ -29,8 +29,14 @@ Some implementations and discussions on the fundamentals of Machine Learning, as
 - A.4 - DBSCAN clustering
     
 ### Part B - Multi-class logistic regression for CIFAR10 dataset
+- B.1 - logistic regression classifier
+- B.2 - regression for housing dataset
 
 ### Part C - Dimensionality reduction
+Comparison of PCA, t-SNE, UMAP techniques.
+- C.1 - for visualisation
+- C.2 - preprocessing for machine learning
+- C.3 - interpretability and stability
 
 ### Part D - Discussion
 
